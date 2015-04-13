@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+.shopclass_item:hover
+{
+	border-left:#4593FD;
+	border-right:#CCC;	
+	background-color:#FFF;
+	box-shadow:0 0 8px #FFFFFF;
+	color:#000;
+}
+.shopclass_item:hover a
+{
+	color:#000;
+}
+.shopclass_item dt:hover
+{
+	background-image:none;
+}
+
+.shopclass_item a:hover
+{
+	text-decoration: underline;
+	color:#F33;
+	font-weight:bold;
+}
+.submenu
+{
+	width:715px;
+	left:186px;
+	border:#CCC solid 1px;
+	position:absolute;
+	z-index:4;
+	background-color:#FFF;
+	color:#000;
+	box-shadow:0 0 8px #666666;
+	float:left;
+}
+.submenu dl
+{
+	width:705px;
+	background-color: #FFF;
+	margin:5px;
+	float:left;
+	border-bottom:#CCC solid 1px;
+	padding-bottom:5px;
+	overflow:hidden;
+}
+
+.shopclass_item:hover .submenu
+{
+	display:block;
+}
+.submenu dt
+{
+	font-size:12px;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-weight:bold;
+	padding-left:20px;
+	color:#4B88DA;
+	width:75px;
+	float:left;
+	height:20px;
+	line-height:20px;
+	display:inline-block;
+}
+
+.submenu dt a
+{
+	color:#4B88DA;
+	overflow:hidden;	
+}
+.submenu dd
+{
+	font-size:12px;
+	font-family:"Arial Black", Gadget, sans-serif;
+	display:inline-block;
+	width:610px;
+	font-weight:normal;
+	color:#000;
+	float:left;
+	overflow:hidden;
+	
+}
+.submenu dd a
+{
+	margin-right:15px;
+	display:inline-block;
+	float:left;
+	height:20px;
+	line-height:20px;
+	color:#000;
+}
+.submenu a:hover
+{
+	text-decoration: underline;
+	color:#F33;
+	font-weight:bold;
+}
+
