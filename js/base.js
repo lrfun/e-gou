@@ -5,7 +5,7 @@ $(function(){
  	$("#Menu").hide();
  	
 	$(".shopclass_show > dl").mouseover(function(){ 
-		
+		$(this).addClass('cur').siblings('dl').removeClass('cur');
 		$("#Menu").show();
 		//说明：此处使用ajax动态拉取列表内容
 	});

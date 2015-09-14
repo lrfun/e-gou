@@ -10,7 +10,7 @@
 	color:#000;
 }
 
-.cur{background: #fff}
+.cur{background: #fff;color: #d4d4d4;}
 .shopclass_item:hover a
 {
 	color:#000;
