@@ -57,7 +57,7 @@
 .imgBox{width:811px; height:325px; position:absolute; left:0px; top:0px;}
 .imgBox li{float:left;}
 .imgBox img{width:811px; height:325px; display:block;}
-.imgNum{position:absolute; left:405px;bottom:15px;text-align:center;}
+.imgNum{position:absolute; bottom:15px;text-align:center;left: 50%;margin-left: -48px;}
 .imgNum a{ width:20px; height:5px; display:inline-block; background-color:#FFF; margin:o 3px; overflow:hidden;}
 .imgNum .active{ background-color:#FF7700;}
 

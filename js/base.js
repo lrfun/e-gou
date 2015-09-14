@@ -5,6 +5,7 @@ $(function(){
  	$("#Menu").hide();
  	
 	$(".shopclass_show > dl").mouseover(function(){ 
+		
 		$("#Menu").show();
 		//说明：此处使用ajax动态拉取列表内容
 	});

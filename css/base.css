@@ -9,6 +9,8 @@
 	box-shadow:0 0 8px #FFFFFF;
 	color:#000;
 }
+
+.cur{background: #fff}
 .shopclass_item:hover a
 {
 	color:#000;
