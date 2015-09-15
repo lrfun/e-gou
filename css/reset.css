@@ -12,7 +12,7 @@ a{text-decoration:none; color:#656565;}
 input{border:none;}
 
 /*浮动清零*/
-.clearfix:after{content:"";diaplay:block;clear:both;}
-.clearfix{zoom:1;}
+.clearfix{clear:both;zoom:1} /*清除浮动*/
+.clearfix:after{clear:both;display:block;height:0;font-size:0;content:".";visibility:hidden;}
 .fl{float:left;}
 .fr{float:right;}
