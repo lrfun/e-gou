@@ -289,11 +289,11 @@ cursor: pointer;}
 
 .checkBox{margin-top:12px;}
 .loginbar .commMarg{margin-left:86px;}
-.checkBox span{ font: bold 16px/1 'Microsoft yahei','Arial'; margin-right:15px;}
+.checkBox span{ font: 16px/1 'Microsoft yahei','Arial'; margin-right:15px;}
 .checkbox{width:16px; height:16px;}
 .login_button{ width:308px; height:34px;color:#999; font-size:16px; line-height:32px; font-size:"Arial Black", Gadget, sans-serif; margin-top:30px; border:#D4D4D4 solid 1px; background:url(../images/login/3.gif  )repeat-x; }
-.cooperatorbar .cooper{font:14px/1 "Arial Black", Gadget, sans-serif; color:#999; margin-top:36px;}
-.cooperator p,.cooperator a{font:14px/1 Verdana, Geneva, sans-serif; color:#000; margin-top:10px; margin-bottom:24px;}
+.cooperatorbar .cooper{font:14px/1'Microsoft yahei','Arial'; color:#999; margin-top:36px;}
+.cooperator p,.cooperator a{font:14px/1 'Microsoft yahei','Arial'; color:#000; margin-top:10px; margin-bottom:24px;}
 .cooperator .more1{background:url(../images/login/4.gif) right center no-repeat; width:8px; height:4px; display:inline-block;}
 .zhuce{font:16px/1 "Arial Black", Gadget, sans-serif; color:#FFF; background-color:#7CBE56; width:94px; height:32px; line-height:32px; padding-left:22px;}
 .zhuce .tubiao{ width:16px; height:8px; font-family:Verdana, Geneva, sans-serif; font-size:10px; text-align:center;}
@@ -301,8 +301,8 @@ cursor: pointer;}
 /*rigester*/
 .rigesterbar {width:630px;background-color:#FFF; border:#E1E1E1 solid 1px; margin-top:10px; margin-left:auto; margin-right:auto;}
 
-.user_name{font:16px/1 "Arial Black", Gadget, sans-serif; line-height:32px;}
-.xin{color:#F00; line-height:32px; font-family:Verdana, Geneva, sans-serif;}
+.user_name{font:16px/1 'Microsoft yahei','Arial'; line-height:32px;}
+.xin{color:#F00; line-height:32px; font-family:'Microsoft yahei','Arial';}
 .rigesterbar .user{ margin-bottom:20px;}
 .rigesterbar .top{ margin-top:65px;}
 .rigesterbar .yonghu: hover{ color:#03C;}
