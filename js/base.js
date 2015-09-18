@@ -12,6 +12,7 @@ $(function(){
 
 	$("#Menu").mouseover(function(){ 
 		$("#Menu").show();
+		$(".shopclass_item a").css('color','#111')
 	});
 
 	$("#Menu").mouseout(function(){ 
