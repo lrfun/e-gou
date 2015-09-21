@@ -129,7 +129,7 @@ body{font-family: "Microsoft yahei",'Arial'}
 .Item p{line-height:20px;}
 .Item_img img{height:170px;}
 .Item a{color:#000;}
-.Item a:hover{text-decoration:underline;}
+.Item a:hover{text-decoration:underline;color: #DC8E7E;}
 .money{color:#DC8E7E; font-weight:bold; padding-top:10px;}
 .PL{ width:13px; height:12px; background:url(../images/%E5%95%86%E5%93%81%E5%9B%BE%E7%89%87-%E9%A1%B5%E9%9D%A22/2.gif) left top no-repeat; margin-right:2px; display:inline-block;}
 .Item_cont{padding:0 10px;}
@@ -339,6 +339,6 @@ cursor: pointer;}
 /*回到顶部*/
 
 #top{
-	width:40px; height:40px; position:fixed; left:50%; top:400px; margin-left:510px;  text-align:center; cursor:pointer; background:url(../images/icon/top.png )
+	width:40px; height:37px; position:fixed; left:53%; top:400px; margin-left:510px;  text-align:center; cursor:pointer; background:url(../images/icon/top.png )
 	}
-#top:hover{ background:url(../images/icon/top-1.jpg)}
+#top:hover{ background:url(../images/icon/top-1.jpg) no-repeat;}
